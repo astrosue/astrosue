@@ -1,9 +1,5 @@
 # <p align="center">Привет, я astrosue! 👋</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app[ТВОЙ_НИК]&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-</p>
-
 ---
 
 ### 🚀 Обо мне
