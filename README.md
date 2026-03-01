@@ -1,8 +1,5 @@
-# <p align="center">Привет, я [Твое Имя]! 👋</p>
+# <p align="center">Привет, я astrosue! 👋</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app[astrosue]&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-</p>
 
 ---
 
@@ -15,13 +12,3 @@
 - 🐍 Пишу чистый и лаконичный код на **Python**.
 - 🐧 Чувствую себя в **Linux** как дома (терминал — мой лучший друг).
 - 🛠 Развертываю, настраиваю и оптимизирую.
-
----
-
-### 📊 Статистика активности
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app[astrosue]&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com[astrosue]&theme=radical" alt="GitHub Streak" height="150" />
-</p>
-
----
