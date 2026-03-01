@@ -25,7 +25,3 @@
 </p>
 
 ---
-
-### 📫 Как меня найти:
-[![Telegram](https://img.shields.io)](https://t.me[ТВОЙ_НИК])
-[![Email](https://img.shields.io)](mailto:твой@email.com)
